@@ -1,0 +1,12 @@
+.git
+build
+downloads
+source/doc
+source/erts*
+source/lib
+
+syntax: glob
+*.pyc
+*.swo
+*.swp
+.DS_Store
